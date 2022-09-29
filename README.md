@@ -1,7 +1,9 @@
 # Lensless facial recognition
-
+## lens-based facial recognition V.S. Lensless facial recognition
 ![fig1](https://user-images.githubusercontent.com/67819957/192952435-af81ecd3-6496-4428-a95f-5aa1144d0566.jpg)
+## Optical setup
 ![fig6](https://user-images.githubusercontent.com/67819957/192952457-a9d78c01-5923-4e90-8dfa-f4e51e863364.jpg)
+## Model architecture
 ![fig5](https://user-images.githubusercontent.com/67819957/192952474-d25a0d7d-1cb3-4b0b-bf67-09156f8cb907.jpg)
 
 
